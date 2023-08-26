@@ -24,3 +24,6 @@ one can support and show concerns through the following:
 >sharonmuingo@gmail.com
 
 >Phone:0731740173
+
+# Licence
+MIT licence copyright 2023 FEDELIS SHARON MUINGO.
