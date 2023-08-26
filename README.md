@@ -10,5 +10,7 @@ This is a site where I tell and show more about the restaurant called Anitas-kit
 
 # Set up/installation requirements
 >Git
+
 >Web browser of your choice, I actually prefer Google Chrome.
+
 >Github
