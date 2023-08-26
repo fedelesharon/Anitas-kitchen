@@ -14,3 +14,5 @@ This is a site where I tell and show more about the restaurant called Anitas-kit
 >Web browser of your choice, I actually prefer Google Chrome.
 
 >Github
+
+>Git clone:
