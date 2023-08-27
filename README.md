@@ -6,7 +6,7 @@ created by FEDELIS MUINGO
 # Description
 This is my week 6 independent project at Moringa School.
 
-This is a site where I tell and show more about the restaurant called Anitas-kitchen.
+This is a site where I tell and show more about the restaurant called Anitas-Kitchen.
 
 # Set up/installation requirements
 >Git
